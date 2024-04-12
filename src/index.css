@@ -1,0 +1,19 @@
+body {
+  /* background-image: linear-gradient(to right,rgb(116, 207, 219),white,rgb(44, 182, 216)); */
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:'Times New Roman', Times, serif;
+}
+
+
+.active{
+  background-color: rgb(179, 187, 61);
+  font-weight: bold;
+}
+
+

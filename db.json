@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "ordername": "Mixed-Fruit Dessert",
+      "customername": "Shivani",
+      "address": "H.no:7-7-186/2,Ashok nagar",
+      "id": 6
+    },
+    {
+      "ordername": "Chinese Noodles",
+      "customername": "Smily",
+      "address": "hitehcity,Hyderabad,5-56/4",
+      "id": 7
+    }
+    
+  ]
+}
